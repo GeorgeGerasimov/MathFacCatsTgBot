@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Сеня",
+    "ids": [ 177, 192, 204 ],
+    "color": "grey",
+    "size": "medium"
+  },
+  {
+    "name": "сёма",
+    "ids": [ 93, 94, 95, 96 ],
+    "color": "brown",
+    "size": "medium"
+  },
+  {
+    "name": "Мурзайка",
+    "ids": [ 97, 98 ],
+    "color": "white",
+    "size": "medium"
+  },
+  {
+    "name": "СтепанГригорьевичБорзый",
+    "ids": [ 99, 100, 101, 105, 106 ],
+    "color": "grey",
+    "size": "medium"
+  },
+  {
+    "name": "Дуся",
+    "ids": [ 102, 103, 104 ],
+    "color": "black",
+    "size": "medium"
+  },
+  {
+    "name": "Барин",
+    "ids": [ 127, 137, 138, 139, 146, 147, 148, 149, 150, 158, 167, 187, 188, 203],
+    "color": "grey",
+    "size": "fat"
+  },
+  {
+    "name": "Манюня",
+    "ids": [ 141, 142, 143, 144],
+    "color": "brown",
+    "size": "medium"
+  },
+  {
+    "name": "Маруся",
+    "ids": [ 117, 118, 119, 120],
+    "color": "grey",
+    "size": "medium"
+  },
+  {
+    "name": "Шерлок",
+    "ids": [ 117, 118, 119, 120],
+    "color": "brown",
+    "size": "big"
+  },
+  {
+    "name": "Царапка",
+    "ids": [79, 134, 135, 162, 201],
+    "color": "mixed",
+    "size": "fat"
+  },
+  {
+    "name": "Петр",
+    "ids": [15, 30, 31, 109, 200],
+    "color": "brown",
+    "size": "medium"
+  },
+  {
+    "name": "Кишка",
+    "ids": [199],
+    "color": "mixed",
+    "size": "medium"
+  },
+  {
+    "name": "Алиса",
+    "ids": [48, 59, 64, 73, 110, 152, 198],
+    "color": "white",
+    "size": "medium"
+  },
+  {
+    "name": "Кискимо",
+    "ids": [161, 166, 170, 183, 190, 197],
+    "color": "orange",
+    "size": "big"
+  },
+  {
+    "name": "Кыся",
+    "ids": [17, 22, 74, 154, 179, 182, 189, 195],
+    "color": "mixed",
+    "size": "big"
+  },
+  {
+    "name": "Мия",
+    "ids": [ 53, 61, 71, 80, 107, 123, 159, 185, 194],
+    "color": "grey",
+    "size": "medium"
+  },
+  {
+    "name": "каспер",
+    "ids": [16, 25, 54, 72, 112, 193],
+    "color": "white",
+    "size": "medium"
+  },
+  {
+    "name": "Ляля",
+    "ids": [127, 138, 139, 147, 148, 149, 167, 178, 187],
+    "color": "grey",
+    "size": "medium"
+  },
+  {
+    "name": "Лютик",
+    "ids": [132, 133, 176],
+    "color": "grey",
+    "size": "medium"
+  },
+  {
+    "name": "Амур",
+    "ids": [174, 175],
+    "color": "black",
+    "size": "medium"
+  },
+  {
+    "name": "Лима",
+    "ids": [111, 125, 165],
+    "color": "orange",
+    "size": "small"
+  },
+  {
+    "name": "Венечка",
+    "ids": [28, 36, 45, 56, 153],
+    "color": "black",
+    "size": "medium"
+  },
+  {
+    "name": "Нюша",
+    "ids": [18, 27, 38, 46, 66, 151],
+    "color": "mixed",
+    "size": "medium"
+  },
+  {
+    "name": "Руни",
+    "ids": [44],
+    "color": "grey",
+    "size": "small"
+  },
+  {
+    "name": "Тимофей",
+    "ids": [39, 50],
+    "color": "orange",
+    "size": "medium"
+  }
+]
